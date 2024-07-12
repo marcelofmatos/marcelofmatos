@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelofmatos
-- 👀 I’m interested in PHP, Databases, DevOps
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in PHP, Java, JavaScript, Databases, DevOps
+- 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
